@@ -4,7 +4,8 @@ Repositório criado durante uma **aula** ao vivo!
 
 Essa linha eu adicionei diretamente do site. Uau!
 
-## Clique aqui para ver o curso top desse cara no *Youtube* 🖖🏻!
+## [Clique aqui para ver o curso top desse cara no Youtube 🖖🏻!](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
+## [GitHub dele.](https://github.com/gustavoguanabara)
 ---
 ## Praticando!
 ### Aprendendo também sobre a Linguagem Markdown.
