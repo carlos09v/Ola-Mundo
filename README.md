@@ -1,6 +1,5 @@
 # Olá, Mundo!
 ### Meu primeiro repositório do Curso de Git e GitHub ###
----
 Repositório criado durante uma **aula** ao vivo!
 
 Essa linha eu adicionei diretamente do site. Uau!
@@ -35,8 +34,8 @@ Colocando códigos:
 
 Não entendo o que o comando `city= str(input('Qual sua cidade? '))` da linguagem Python significa.
 ```
-num= int(input('Digite um número: '))
-num= int(input('Digite outro número: '))
-num3= 6+4
+num1= int(input('Digite um número: '))
+num2= int(input('Digite outro número: '))
+num3= (num1+num2)
 print(f'A soma dos números que você escolheu é {num3})
 ```
