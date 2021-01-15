@@ -4,7 +4,7 @@ Repositório criado durante uma **aula** ao vivo!
 
 Essa linha eu adicionei diretamente do site. Uau!
 
-## [Clique aqui para ver o curso top desse cara no Youtube 🖖🏻!](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
+## [Veja esse curso no Youtube 🖖🏻!](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
 ## [GitHub dele.](https://github.com/gustavoguanabara)
 ---
 ## Praticando!
@@ -38,5 +38,5 @@ Não entendo o que o comando `city= str(input('Qual sua cidade? '))` da linguage
 num1= int(input('Digite um número: '))
 num2= int(input('Digite outro número: '))
 num3= (num1+num2)
-print(f'A soma dos números que você escolheu é {num3})
+print(f'A soma dos números que você escolheu é {num3}')
 ```
